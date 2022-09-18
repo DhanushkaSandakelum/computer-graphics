@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1661753331 source:c:\mygithub\computer-graphics\opengl\practical2\main.c
+	<GL/glut.h>
+
+1661749850 source:c:\mygithub\computer-graphics\opengl\practical2\linedrawing.c
+	<stdio.h>
+
+1661750008 c:\mygithub\computer-graphics\opengl\practical2\linedrawing.c
+	<stdio.h>
+
