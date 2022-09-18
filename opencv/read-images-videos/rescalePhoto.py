@@ -8,7 +8,7 @@ def rescaleFrame(frame, scale=0.5):
 
     return cv.resize(frame, dimensions, interpolation=cv.INTER_AREA)
 
-img = cv.imread("Photos/1.png")
+img = cv.imread("../assets/Photos/1.png")
 rescaled_img = rescaleFrame(img)
 cv.imshow('IGI', rescaled_img)
 
